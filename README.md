@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorhmina&label=Profile%20views&color=0e75b6&style=flat" alt="vitorhmina" /> </p>
 
+<h3 align="left">💼 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀</h3>
+<p align="left">I am looking for challenges and opportunities that keep me in continuous learning.</p>
+
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vítor-mina-88759b324/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/></a>&nbsp;&nbsp;&nbsp;&nbsp;
