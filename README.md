@@ -5,8 +5,6 @@
 
 <h3 align="left">💼 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀</h3>
 <p align="left">I am looking for challenges and opportunities that keep me in continuous learning.</p>
-
-
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
